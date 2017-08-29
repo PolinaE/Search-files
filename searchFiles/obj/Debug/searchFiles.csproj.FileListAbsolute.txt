@@ -1,0 +1,13 @@
+c:\users\kaoin_000\documents\visual studio 2015\Projects\searchFiles\searchFiles\bin\Debug\searchFiles.exe.config
+C:\Users\kaoin_000\Documents\Visual Studio 2015\Projects\searchFiles\searchFiles\obj\Debug\searchFiles.csprojResolveAssemblyReference.cache
+C:\Users\kaoin_000\Documents\Visual Studio 2015\Projects\searchFiles\searchFiles\obj\Debug\searchFiles.Form1.resources
+C:\Users\kaoin_000\Documents\Visual Studio 2015\Projects\searchFiles\searchFiles\obj\Debug\searchFiles.Properties.Resources.resources
+C:\Users\kaoin_000\Documents\Visual Studio 2015\Projects\searchFiles\searchFiles\obj\Debug\searchFiles.csproj.GenerateResource.Cache
+C:\Users\kaoin_000\Documents\Visual Studio 2015\Projects\searchFiles\searchFiles\bin\Debug\searchFiles.exe
+C:\Users\kaoin_000\Documents\Visual Studio 2015\Projects\searchFiles\searchFiles\bin\Debug\searchFiles.pdb
+C:\Users\kaoin_000\Documents\Visual Studio 2015\Projects\searchFiles\searchFiles\obj\Debug\searchFiles.exe
+C:\Users\kaoin_000\Documents\Visual Studio 2015\Projects\searchFiles\searchFiles\obj\Debug\searchFiles.pdb
+C:\Users\kaoin_000\Documents\Visual Studio 2015\Projects\searchFiles\searchFiles\bin\Debug\FastTree.dll
+C:\Users\kaoin_000\Source\Repos\Search-files\searchFiles\bin\Debug\searchFiles.exe.config
+C:\Users\kaoin_000\Source\Repos\Search-files\searchFiles\obj\Debug\searchFiles.exe
+C:\Users\kaoin_000\Source\Repos\Search-files\searchFiles\obj\Debug\searchFiles.pdb
